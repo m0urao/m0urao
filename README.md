@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @m0urao
-- 👀 I’m interested in learning new things, improve my skills with programming and coding.
-- 🌱 I’m currently doing a software engineering degree.
-- 📫 How to reach me: dm me.
+# Hi, I'm Marta!
 
-<!---
-m0urao/m0urao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About me:
+- currently a BSc Software Engineering Undergraduate (@portsoc)
+- course rep
+- I’m interested in learning new things and improve my skills in programming.
+
+### What I know:
+- Music Production (ProTools, Ableton, etc)
+- help people 
+
+### Talk with me:
+- LinkedIn: www.linkedin.com/in/m0urao
+
+
