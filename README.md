@@ -7,7 +7,7 @@
 
 ### What I know:
 - Music Production (ProTools, Ableton, etc)
-- help people 
+- A bit of javascript and sql
 
 ### Talk with me:
 - LinkedIn: www.linkedin.com/in/m0urao
