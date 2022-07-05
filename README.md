@@ -7,7 +7,7 @@
 
 ### What I know:
 - Music Production (ProTools, Ableton, etc)
-- A bit of javascript and sql
+- Javascript, CSS, HTML, SQL
 
 ### Talk with me:
 - LinkedIn: www.linkedin.com/in/m0urao
